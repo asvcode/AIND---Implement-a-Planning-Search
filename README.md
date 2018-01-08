@@ -1,0 +1,2 @@
+# AIND---Implement-a-Planning-Search
+This project involves defining a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain problem. The project involves experimenting with various automatically generated heuristics, including planning graph heuristics, to solve the problems, and then provide an analysis of the results which include a research review paper on the historical development of planning techniques and their use in artificial intelligence.
